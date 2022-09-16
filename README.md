@@ -13,4 +13,7 @@ Here is the link of KL's github:https://github.com/KevinLiTian/ECE444-F2022-Lab1
 ![2171663366494_ pic](https://user-images.githubusercontent.com/85442571/190815851-2d84bbcd-4d48-467c-99ad-1f46dce9b54d.jpg)
 ![2181663366494_ pic](https://user-images.githubusercontent.com/85442571/190815880-be3d9a3d-c70d-491a-98c7-ef2574016cda.jpg)
 
+# Activity 5
+![2181663366494_ pic](https://user-images.githubusercontent.com/85442571/190826644-1a103a8b-71c2-4a30-8ac6-c8c251b82755.jpg)
 
+<img width="565" alt="Screen Shot 2022-09-16 at 6 34 01 PM" src="https://user-images.githubusercontent.com/85442571/190826654-e080e121-4e34-4893-afae-daf66a1fc8e2.png">
