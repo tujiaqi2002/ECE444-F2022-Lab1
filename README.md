@@ -25,3 +25,6 @@ Here is the link of KL's github:https://github.com/KevinLiTian/ECE444-F2022-Lab1
 <img width="566" alt="Screen Shot 2022-09-16 at 6 35 16 PM" src="https://user-images.githubusercontent.com/85442571/190826698-805e519e-1b83-474b-9981-7d1952d62dff.png">
 -----------------------------------------------------------------------------
 <img width="565" alt="Screen Shot 2022-09-16 at 6 34 01 PM" src="https://user-images.githubusercontent.com/85442571/190826654-e080e121-4e34-4893-afae-daf66a1fc8e2.png">
+
+# Activity 6
+Here is the link to my EP Repo: https://github.com/tujiaqi2002/ECE444-F2022-EP
