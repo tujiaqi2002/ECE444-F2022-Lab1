@@ -30,7 +30,6 @@ Here is the link of KL's github:https://github.com/KevinLiTian/ECE444-F2022-Lab1
 Here is the link to my EP Repo: https://github.com/tujiaqi2002/ECE444-F2022-EP
 
 # Activity 7
-
-<img width="869" alt="Screen Shot 2022-09-20 at 2 27 57 PM" src="https://user-images.githubusercontent.com/85442571/191337108-08a9fb72-4d00-4553-a36b-ca039aed9050.png">
+<img width="874" alt="Screen Shot 2022-09-20 at 2 36 46 PM" src="https://user-images.githubusercontent.com/85442571/191338541-623b709f-6a3c-4169-99bb-ddc5a053341a.png">
 ------------------------------------------------------------------------------------------
-<img width="568" alt="Screen Shot 2022-09-20 at 2 33 01 PM" src="https://user-images.githubusercontent.com/85442571/191337160-b53d598e-48f9-4395-a485-330c9d7ad5da.png">
+<img width="543" alt="Screen Shot 2022-09-20 at 2 41 00 PM" src="https://user-images.githubusercontent.com/85442571/191338585-1e5ee341-16c2-4bce-a2cb-7040dea658f3.png">
