@@ -33,3 +33,7 @@ Here is the link to my EP Repo: https://github.com/tujiaqi2002/ECE444-F2022-EP
 <img width="874" alt="Screen Shot 2022-09-20 at 2 36 46 PM" src="https://user-images.githubusercontent.com/85442571/191338541-623b709f-6a3c-4169-99bb-ddc5a053341a.png">
 ------------------------------------------------------------------------------------------
 <img width="543" alt="Screen Shot 2022-09-20 at 2 41 00 PM" src="https://user-images.githubusercontent.com/85442571/191338585-1e5ee341-16c2-4bce-a2cb-7040dea658f3.png">
+
+# Activity 8
+<img width="874" alt="Screen Shot 2022-09-20 at 2 36 46 PM" src="https://user-images.githubusercontent.com/85442571/191342638-ccbbd35c-06bb-4cf1-88af-a7b3211a22ba.png">
+<img width="526" alt="Screen Shot 2022-09-20 at 3 00 56 PM" src="https://user-images.githubusercontent.com/85442571/191342687-7c4c0337-ebf6-4558-aa33-2f3cec540bf0.png">
